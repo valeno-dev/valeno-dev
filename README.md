@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Valeno
 
-<!--
-**valeno-dev/valeno-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate learner and aspiring **Machine Learning Engineer** who loves exploring how data and algorithms can create intelligent systems.  
+Currently, I'm focused on mastering **Python**, **Data Science fundamentals**, and **Machine Learning concepts**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 Currently learning: `Python`, `Git & GitHub`, and `Machine Learning concept`
+- 🧩 Interests: Artificial Intelligence, Deep Learning, and Automation
+- 💡 Goal: To become a **Machine Learning Engineer** capable of building real-world AI solutions
+- 🛠️ I enjoy building small projects to improve my coding skills
+
+---
+
+## 🧰 Tech Stack
+- **Languages:** Python 🐍  
+- **Tools:** Git, GitHub, VS Code  
+- **Concepts:** Algorithms, Data Structures, Problem Solving  
+
+---
+
+## 📂 Featured Projects
+Here are some of my learning projects:
+
+| Project | Description | Level |
+|----------|--------------|-------|
+| 🎲 [Dice Roller](https://github.com/valeno-dev/Dice-Roller) | Simulates rolling two dice randomly using Python. | 🟢 Beginner |
+| 🧩 [Hangman Game](https://github.com/valeno-dev/Hangman) | Classic word guessing game with ASCII art. | 🟡 Intermediate |
+| ❌ [Tic Tac Toe](https://github.com/valeno-dev/Tic-Tac-Toe) | Two-player console-based Tic Tac Toe game. | 🟡 Intermediate |
+
+---
+
+## 📈 Learning Progress
+I'm currently improving my:
+- English vocabulary for tech & ML 🗣️  
+- Math and logic for AI 🧮  
+- Coding consistency and clean code style 💻  
+
+---
+
+## 📫 Connect With Me
+- 💼 GitHub: [@valeno-dev](https://github.com/valeno-dev)  
+- 📧 novalampanesa@gmail.com
+
+---
+
+> “The best way to predict the future is to create it.” — Alan Kay
+> “Sometimes it is the people no one imagines anything of who do the things that no one can imagine.” — Alan Turing
