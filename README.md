@@ -25,7 +25,7 @@ Here are some of my learning projects:
 
 | Project | Description | Level |
 |----------|--------------|-------|
-| 🎲 [Dice Roller](https://github.com/valeno-dev/Dice-Roller) | Simulates rolling two dice randomly using Python. | 🟢 Beginner |
+| 🎲 [Dice Roller](https://github.com/valeno-dev/python-projects/tree/main/1.%20easy/dice_roller) | Simulates rolling two dice randomly using Python. | 🟢 Beginner |
 | 🧩 [Hangman Game](https://github.com/valeno-dev/Hangman) | Classic word guessing game with ASCII art. | 🟡 Intermediate |
 | ❌ [Tic Tac Toe](https://github.com/valeno-dev/Tic-Tac-Toe) | Two-player console-based Tic Tac Toe game. | 🟡 Intermediate |
 
@@ -45,5 +45,4 @@ I'm currently improving my:
 
 ---
 
-> “The best way to predict the future is to create it.” — Alan Kay
-> “Sometimes it is the people no one imagines anything of who do the things that no one can imagine.” — Alan Turing
+> “The journey of a thousand miles begins with a single step.” — Lao Tzu
