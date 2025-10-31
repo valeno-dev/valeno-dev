@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Valeno
 
 I'm a passionate learner and aspiring **Machine Learning Engineer** who loves exploring how data and algorithms can create intelligent systems.  
-Currently, I'm focused on mastering **Python**, **Data Science fundamentals**, and **Machine Learning concepts**.
+Currently, I'm focused on mastering **Problem solving**, **Git**, and **Frameworks**.
 
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning: `Python`, `Git & GitHub`, and `Machine Learning concept`
+- 🌱 Currently learning: `Python`, `Git & GitHub`, and `Math concept`
 - 🧩 Interests: Artificial Intelligence, Deep Learning, and Automation
 - 💡 Goal: To become a **Machine Learning Engineer** capable of building real-world AI solutions
 - 🛠️ I enjoy building small projects to improve my coding skills
