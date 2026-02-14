@@ -27,7 +27,7 @@ Here are some of my learning projects:
 |----------|--------------|-------|
 | 🎲 [Dice Roller](https://github.com/valeno-dev/python-projects/tree/main/1.%20easy/dice_roller) | Simulates rolling two dice randomly using Python. | 🟢 Beginner |
 | 🧩 [Hangman Game](https://github.com/valeno-dev/python-projects/tree/main/2.%20intermediate/hangman) | Classic word guessing game with ASCII art. | 🟡 Intermediate |
-| ❌ [Tic Tac Toe](https://github.com/valeno-dev/Tic-Tac-Toe) | Two-player console-based Tic Tac Toe game. | 🟡 Intermediate |
+| ❌ [Tic Tac Toe](https://github.com/valeno-dev/python-projects/tree/main/2.%20intermediate/tic-tac_toe) | Two-player console-based Tic Tac Toe game. | 🟡 Intermediate |
 
 ---
 
