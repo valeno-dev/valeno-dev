@@ -18,7 +18,7 @@ Currently, I'm focused on mastering **Problem solving**, **Git**, and **Framewor
 - **Tools:** Git, GitHub, VS Code  
 - **Concepts:** Algorithms, Data Structures, Problem Solving  
 
----
+--- 
 
 ## 📂 Featured Projects
 Here are some of my learning projects:
