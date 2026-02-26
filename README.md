@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Valeno
+# 👋 Hi, I'm Valeno 
 
 I'm a passionate learner and aspiring **Machine Learning Engineer** who loves exploring how data and algorithms can create intelligent systems.  
 Currently, I'm focused on mastering **Problem solving**, **Git**, and **Frameworks**.
