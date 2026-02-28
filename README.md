@@ -5,7 +5,7 @@ Currently, I'm focused on mastering **Problem solving**, **Git**, and **Framewor
  
 ---  
   
-## 🚀 About Me 
+## 🚀 About Me  
 - 🌱 Currently learning: `Python`, `Git & GitHub`, and `Math concept`
 - 🧩 Interests: Artificial Intelligence, Deep Learning, and Automation
 - 💡 Goal: To become a **Machine Learning Engineer** capable of building real-world AI solutions
