@@ -12,7 +12,7 @@ Currently, I'm focused on mastering **Problem solving**, **Git**, and **Framewor
 - 🛠️ I enjoy building small projects to improve my coding skills
 
 ---
-
+ 
 ## 🧰 Tech Stack
 - **Languages:** Python 🐍  
 - **Tools:** Git, GitHub, VS Code  
